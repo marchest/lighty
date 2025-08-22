@@ -36,12 +36,12 @@
             <dependency>
                 <groupId>io.lighty.core</groupId>
                 <artifactId>lighty-controller</artifactId>
-                <version>18.0.0-SNAPSHOT</version>
+                <version>22.0.0</version>
             </dependency>
             <dependency>
                 <groupId>io.lighty.core</groupId>
                 <artifactId>lighty-clustering</artifactId>
-                <version>18.0.0-SNAPSHOT</version>
+                <version>22.0.0</version>
             </dependency>
 
             <!-- DI framework integrations -->
@@ -77,12 +77,12 @@
             <dependency>
                 <groupId>io.lighty.modules</groupId>
                 <artifactId>lighty-aaa</artifactId>
-                <version>18.0.0-SNAPSHOT</version>
+                <version>22.0.0</version>
             </dependency>
             <dependency>
                 <groupId>io.lighty.modules</groupId>
                 <artifactId>lighty-jetty-server</artifactId>
-                <version>18.0.0-SNAPSHOT</version>
+                <version>22.0.0</version>
             </dependency>
             <dependency>
                 <groupId>io.lighty.modules</groupId>
@@ -114,7 +114,7 @@
             <dependency>
                 <groupId>io.lighty.modules.gnmi</groupId>
                 <artifactId>lighty-gnmi-connector</artifactId>
-                <version>18.0.0-SNAPSHOT</version>
+                <version>22.0.0</version>
             </dependency>
             <dependency>
                 <groupId>io.lighty.modules.gnmi</groupId>
